@@ -1,4 +1,7 @@
 Open Mod UI > Tools and click History for full change details:
 
-- minor fixes on additional damage frequency
-- last version compatible with 1.4.x game branch
+- fixed Shadow Blade spell not granting advantage when enemy not in bright light
+- fixed Way of the Tempest's gathering storm not applying lightning damage
+- changed Circle of the Eternal Grove's seed of life to a bonus action
+- changed Darkweaver's dark assault to trigger on start of rogue's turn
+- changed Weapon Master's momentum to not use a reaction and be once in my turn
